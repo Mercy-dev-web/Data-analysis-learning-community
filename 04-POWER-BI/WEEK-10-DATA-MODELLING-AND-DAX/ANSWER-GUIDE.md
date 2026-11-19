@@ -68,12 +68,12 @@ CALCULATE (
 ## 4. Dataset validation
 Use these checks after creating Sales_Value_NGN:
 - Sales rows: 24.
-- Total units: 90.
-- Total sales value: ₦273,850.
-- Unique customers appearing in Sales: 8.
-- Grocery sales: ₦196,650.
-- Online sales: ₦142,650.
-- Sales by city: Lagos ₦88,300; Ibadan ₦79,750; Ikeja ₦64,300; Abuja ₦41,500.
+- Total units: 81.
+- Total sales value: ₦155,850.
+- Unique customers appearing in Sales: 9.
+- Grocery sales: ₦90,100.
+- Online sales: ₦74,650.
+- Sales by city: Ibadan ₦53,900; Lagos ₦52,950; Abuja ₦25,600; Ikeja ₦23,400.
 
 If your results differ, check that all 24 rows loaded, data types are numeric, and the relationships are correct. A card should use the Total Sales measure, not Count of Sales_Value_NGN.
 
