@@ -13,3 +13,4 @@ This section teaches relational database concepts and querying. Complete Weeks 6
 ## Weekly modules
 - [Week 6: Database and SQL Foundations](WEEK-06-DATABASE-AND-SQL-FOUNDATIONS/README.md)
 - [Week 7: SQL Analysis](WEEK-07-SQL-ANALYSIS/README.md)
+- [Week 8: SQL Joins and Intermediate Querying](WEEK-08-SQL-JOINS-AND-INTERMEDIATE-QUERYING/README.md)
