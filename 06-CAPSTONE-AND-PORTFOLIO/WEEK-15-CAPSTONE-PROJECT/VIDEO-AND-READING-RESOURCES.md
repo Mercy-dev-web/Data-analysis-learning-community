@@ -13,7 +13,7 @@ These videos support the capstone workflow. They are learning references, not in
 3. **[Full Beginner Project in Excel](https://www.youtube.com/watch?v=opJgMj1IUrc)**  
    Use the Excel project workflow as inspiration for cleaning, PivotTables and presenting results. Keep your own dataset and business questions.
 
-4. **[Full Power BI Guided Project](https://www.youtube.com/watch?v=3u7MQz1EyIg)**  
+4. **[Full Power BI Guided Project](https://www.youtube.com/watch?v=pixlHHe_lNQ)**  
    Use this to review how a report is assembled and formatted. Your report must use the NaijaGlow model and answer the capstone questions.
 
 ## Official documentation
