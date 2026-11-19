@@ -183,10 +183,10 @@ Expected results:
 The supplied CSV contains 12 rows. Expected figures:
 
 - Total quantity sold: 32
-- Total revenue: ₦146,000
-- Average revenue per order row: ₦12,166.67 (approximately)
-- Highest row revenue: ₦30,000
-- Lowest row revenue: ₦4,000
+- Total revenue: ₦112,400
+- Average revenue per order row: ₦9,366.67 (approximately)
+- Highest row revenue: ₦18,000
+- Lowest row revenue: ₦2,400
 
 Payment-method counts:
 - Transfer: 5
