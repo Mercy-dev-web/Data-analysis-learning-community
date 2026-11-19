@@ -61,6 +61,7 @@ Read [DATA-DICTIONARY.md](DATA-DICTIONARY.md) before analysis. The dataset is fi
 - Keep the notebook/script reproducible from top to bottom.
 
 ### Phase 5 — Power BI: communicate the results
+- Read [POWER-BI-MEASURES.md](POWER-BI-MEASURES.md) for step-by-step relationship setup, DAX examples and validation totals.
 - Load the three tables.
 - Create one-to-many relationships from Customers and Products to Sales.
 - Confirm the sales table grain and avoid many-to-many relationships.
@@ -120,6 +121,10 @@ Do not upload personal data, passwords, API keys or private information. The sup
 **Recommended pass mark: 70%.** If one tool is unavailable to you, explain the limitation and demonstrate the same analysis in another tool; however, your final submission should document which programme tools you used and why.
 
 ## Suggested 8–12 hour plan
+
+This is an ambitious end-to-end task for a beginner. Treat 8–12 hours as a planning guide, not a deadline. It is reasonable to spread the capstone over two weeks, especially if you are learning Power BI or SQL imports for the first time. Do not rush the validation or skip a tool simply to finish quickly.
+
+
 
 | Activity | Suggested time |
 |---|---:|
