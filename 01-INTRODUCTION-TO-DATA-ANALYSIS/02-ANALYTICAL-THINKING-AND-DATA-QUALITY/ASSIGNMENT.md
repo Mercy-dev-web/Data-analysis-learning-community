@@ -1,6 +1,6 @@
 # Week 2 Assignment — Data Quality Audit
 
-<badge>Assessed practical deliverable</badge>
+**Assessed practical deliverable**
 
 ## Objective
 
