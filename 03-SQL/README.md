@@ -10,4 +10,6 @@ This section teaches relational database concepts and querying. Complete Weeks 6
 
 **Required output:** Project 2, a documented SQL analysis using related tables, with validated joins and interpreted results.
 
-Start with [Week 6: Database and SQL Foundations](WEEK-06-DATABASE-AND-SQL-FOUNDATIONS/README.md).
+## Weekly modules
+- [Week 6: Database and SQL Foundations](WEEK-06-DATABASE-AND-SQL-FOUNDATIONS/README.md)
+- [Week 7: SQL Analysis](WEEK-07-SQL-ANALYSIS/README.md)
