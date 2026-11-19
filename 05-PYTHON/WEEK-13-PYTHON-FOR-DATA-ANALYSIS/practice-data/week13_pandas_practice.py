@@ -24,7 +24,7 @@ df = pd.read_csv("naija_shop_orders_raw.csv")
 # 3. Inspect the raw data
 print("\nRAW DATA SHAPE:", df.shape)
 print(df.head())
-print(df.info())
+df.info()
 print("\nMISSING VALUES")
 print(df.isna().sum())
 print("\nEXACT DUPLICATES:", df.duplicated().sum())
