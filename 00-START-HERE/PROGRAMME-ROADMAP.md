@@ -98,7 +98,7 @@ Practise:
 - Sort and filter a transaction dataset.
 - Understand how cell references identify values and how references move when copied. Full formula calculations are taught in Week 4.
 
-**Deliverable:** a structured transaction workbook with a clearly labelled data table and basic calculated columns.
+**Deliverable:** a structured transaction workbook with a clearly labelled data table, correct data types and safe sorting/filtering. Formula calculations are assessed in Week 4.
 
 ### Week 4: Excel formulas and functions
 
