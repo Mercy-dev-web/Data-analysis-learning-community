@@ -1,0 +1,13 @@
+Order_ID,Product,Category,Quantity,Unit_Price_NGN,City,Payment_Method
+S001,Face Cream,Skincare,2,6500,Lagos,Transfer
+S002,Body Lotion,Skincare,3,4500,Ibadan,Card
+S003,Hand Wash,Personal Care,4,1500,Abuja,Cash
+S004,Face Serum,Skincare,1,12000,Lagos,Transfer
+S005,Bar Soap,Personal Care,5,800,Osogbo,Card
+S006,Hair Oil,Personal Care,2,3500,Ibadan,Transfer
+S007,Face Cream,Skincare,2,6500,Abuja,Cash
+S008,Body Lotion,Skincare,4,4500,Lagos,Card
+S009,Hand Wash,Personal Care,3,1500,Osogbo,Transfer
+S010,Face Serum,Skincare,1,12000,Ibadan,Cash
+S011,Bar Soap,Personal Care,3,800,Lagos,Transfer
+S012,Hair Oil,Personal Care,2,3500,Abuja,Card
