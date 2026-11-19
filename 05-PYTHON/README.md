@@ -8,6 +8,6 @@ This section introduces Python and applies pandas and visualisation libraries to
 
 - [Week 12 — Python Foundations](WEEK-12-PYTHON-FOUNDATIONS/README.md): Python setup, notebooks, variables, data types, operators, strings, collections, conditions, loops, functions and debugging.
 - [Week 13 — Python for Data Analysis](WEEK-13-PYTHON-FOR-DATA-ANALYSIS/README.md): pandas, NumPy, importing datasets, inspecting and cleaning data, filtering, calculated columns, grouping, aggregation and exporting.
-- Week 14 — Exploratory Data Analysis and Visualisation: exploring patterns, summarising findings and communicating insights with Python.
+- [Week 14 — Exploratory Data Analysis and Visualisation](WEEK-14-EXPLORATORY-DATA-ANALYSIS-AND-VISUALISATION/README.md): descriptive statistics, distributions, outliers, relationships, charts and evidence-based insights.
 
 Start with Week 12 even if you have used Python before. It establishes the programming foundations used in the next two weeks.
