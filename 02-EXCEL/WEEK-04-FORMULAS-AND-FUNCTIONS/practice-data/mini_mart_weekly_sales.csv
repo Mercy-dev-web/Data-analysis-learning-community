@@ -1,0 +1,31 @@
+Transaction_ID,Sale_Date,Product,Category,Venue,Quantity_Sold,Unit_Price_NGN,Payment_Method,Payment_Status
+TXN001,2026-11-02,Bottled Water,Drinks,Ibadan,12,300,Cash,Paid
+TXN002,2026-11-02,Bread,Bakery,Ibadan,5,1500,Transfer,Paid
+TXN003,2026-11-02,Potato Chips,Snacks,Oyo,8,700,Transfer,Paid
+TXN004,2026-11-03,Orange Juice,Drinks,Ibadan,6,1200,POS,Pending
+TXN005,2026-11-03,Meat Pie,Bakery,Oyo,4,1000,Cash,Paid
+TXN006,2026-11-03,Chin Chin,Snacks,Ibadan,10,500,Transfer,Paid
+TXN007,2026-11-04,Bottled Water,Drinks,Oyo,20,300,POS,Paid
+TXN008,2026-11-04,Agege Bread,Bakery,Ibadan,7,1300,Transfer,Pending
+TXN009,2026-11-04,Groundnut,Snacks,Ibadan,9,600,Cash,Paid
+TXN010,2026-11-05,Malt Drink,Drinks,Oyo,5,1000,Transfer,Paid
+TXN011,2026-11-05,Chicken Pie,Bakery,Ibadan,3,1500,POS,Paid
+TXN012,2026-11-05,Plantain Chips,Snacks,Oyo,6,800,Cash,Pending
+TXN013,2026-11-06,Bottled Water,Drinks,Ibadan,15,300,Transfer,Paid
+TXN014,2026-11-06,Bread,Bakery,Oyo,8,1500,POS,Paid
+TXN015,2026-11-06,Potato Chips,Snacks,Ibadan,4,700,Transfer,Paid
+TXN016,2026-11-07,Orange Juice,Drinks,Oyo,9,1200,Cash,Paid
+TXN017,2026-11-07,Meat Pie,Bakery,Ibadan,6,1000,Transfer,Pending
+TXN018,2026-11-07,Chin Chin,Snacks,Oyo,12,500,POS,Paid
+TXN019,2026-11-08,Malt Drink,Drinks,Ibadan,7,1000,Transfer,Paid
+TXN020,2026-11-08,Agege Bread,Bakery,Oyo,4,1300,Cash,Paid
+TXN021,2026-11-08,Groundnut,Snacks,Ibadan,5,600,POS,Pending
+TXN022,2026-11-09,Chicken Pie,Bakery,Oyo,10,1500,Transfer,Paid
+TXN023,2026-11-09,Plantain Chips,Snacks,Ibadan,7,800,Transfer,Paid
+TXN024,2026-11-09,Bottled Water,Drinks,Oyo,0,300,Cash,Pending
+TXN025,2026-11-10,Orange Juice,Drinks,Ibadan,4,1200,POS,Paid
+TXN026,2026-11-10,Bread,Bakery,Oyo,9,1500,Transfer,Paid
+TXN027,2026-11-10,Potato Chips,Snacks,Ibadan,11,700,Cash,Paid
+TXN028,2026-11-11,Malt Drink,Drinks,Oyo,8,1000,Transfer,Pending
+TXN029,2026-11-11,Meat Pie,Bakery,Ibadan,5,1000,POS,Paid
+TXN030,2026-11-11,Chin Chin,Snacks,Oyo,3,500,Transfer,Paid
