@@ -1,0 +1,10 @@
+Customer_ID,Customer_Name,City,Customer_Segment,Signup_Date
+C001,Ada Okafor,Lagos,Returning,2026-01-05
+C002,Tunde Bello,Ibadan,New,2026-02-12
+C003,Chioma Eze,Ikeja,Returning,2026-01-19
+C004,Musa Ibrahim,Abuja,New,2026-03-08
+C005,Funmi Adebayo,Ibadan,Returning,2026-02-22
+C006,David James,Lagos,Returning,2026-01-30
+C007,Zainab Yusuf,Abuja,New,2026-04-02
+C008,Emeka Nwosu,Ikeja,Returning,2026-02-14
+C009,Bisi Lawal,Ibadan,New,2026-04-15
