@@ -1,7 +1,12 @@
 # Introduction to Data Analysis
 
-This section builds the thinking skills behind reliable analysis. Complete Week 1 (Introduction to data analysis) and Week 2 (Analytical thinking and data quality) before moving to Excel.
+This section builds the thinking skills behind reliable analysis.
+
+## Learning sequence
+
+- [Week 1 — Introduction to Data Analysis](WEEK-01/README.md)
+- Week 2 — Analytical Thinking and Data Quality (coming next)
 
 **Required outputs:** a problem brief and a data-quality audit.
 
-Lesson files and practice datasets will be added here in weekly order.
+Complete the weeks in order. Do not begin the Excel section until you can explain the analysis lifecycle and identify common data-quality problems.
