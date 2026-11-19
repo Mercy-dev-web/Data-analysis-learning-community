@@ -1,6 +1,6 @@
 # Week 15: Capstone Project — NaijaGlow Retail Performance
 
-**Recommended time:** 8–12 hours | **Recommended pass mark:** 70%  
+**Recommended time:** 8–12 hours minimum; beginners may spread this capstone across two weeks | **Recommended pass mark:** 70%  
 **Prerequisite:** Weeks 1–14. This project combines Excel, SQL, Python and Power BI.
 
 ## The challenge
@@ -21,6 +21,7 @@ You will work with three related tables: customers, products and sales. You will
 - `DATA-DICTIONARY.md` — table grain, field definitions, relationships and validation figures.
 - `SQL-STARTER.sql` — MySQL schema, view, validation checks and example business queries.
 - `PYTHON-STARTER.py` — pandas workflow, checks, joins, measures, summaries and charts.
+- `POWER-BI-MEASURES.md` — relationship setup, DAX measures and expected validation totals.
 - `data/customers.csv`, `data/products.csv`, `data/sales.csv` — fictional capstone data.
 - `VIDEO-AND-READING-RESOURCES.md` — Alex The Analyst videos and official references.
 - `SUBMISSION-CHECKLIST.md` — quality assurance before submission.
