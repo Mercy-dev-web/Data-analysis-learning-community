@@ -1,0 +1,32 @@
+Order_ID,Order_Date,Product,Quantity,Unit_Price_NGN,City,Payment_Status
+MM001,2026-10-01,Rice,2,85000,Ibadan,Paid
+MM002,01/10/2026,Beans,1,42000,IBADAN,Paid
+MM003,2026-10-02,Vegetable Oil,-1,18000,Lagos,Refunded
+MM004,03/10/2026,Rice,,85000,Ibadan,Paid
+MM004,03/10/2026,Rice,,85000,Ibadan,Paid
+MM005,2026-10-04,Beans,1,420000,Abeokuta,Paid
+MM006,2026-10-04,Garri,5,6500,Ibadan,Paid
+MM007,2026-10-05,Semovita,2,12000,ibadan,Pending
+MM008,2026-10-05,Rice,1,85000,,Paid
+MM009,2026-10-06,Beans,3,42000,LAGOS,Paid
+MM010,2026-10-06,Vegetable Oil,2,18000,Lagos,Paid
+MM011,2026-10-07,Garri,0,6500,Ibadan,Paid
+MM012,2026-10-07,Semovita,1,12000,Abeokuta,Finished
+MM013,2026-10-08,Rice,1,85000,Ibadan,Paid
+MM014,2026-10-08,Beans,2,42000,Lagos,Paid
+MM015,2026-10-09,Vegetable Oil,1,18000,Ibadan,Paid
+MM016,2026-10-10,Garri,4,6500,Abeokuta,Paid
+MM017,2026-10-10,Semovita,2,12000,Ibadan,Paid
+MM018,2026-10-11,Rice,1,85000,Ibadan,paid
+MM019,2026-10-12,Beans,2,42000,Lagos,Paid
+MM020,2026-10-13,Vegetable Oil,1,18000,Ibadan,Paid
+MM021,2026-10-14,Garri,3,6500,Abeokuta,Paid
+MM022,2026-10-15,Semovita,1,12000,Ibadan,Paid
+MM023,2026-10-16,Rice,1,85000,Ibadan,Paid
+MM024,2026-10-17,Beans,1,42000,Lagos,Paid
+MM025,2026-10-18,Vegetable Oil,2,18000,Ibadan,Paid
+MM026,2026-10-19,Garri,2,6500,Abeokuta,Paid
+MM027,2026-10-20,Semovita,1,12000,Ibadan,Paid
+MM028,2026-10-21,Rice,1,85000,Ibadan,Paid
+MM029,2026-10-22,Beans,1,42000,Lagos,Paid
+MM030,2026-10-23,Vegetable Oil,1,18000,Ibadan,Paid
