@@ -310,23 +310,24 @@ Learn:
 
 ### Week 15: End-to-end capstone project
 
-**Focus:** Apply the complete analysis process to a realistic problem.
+**Focus:** Apply the complete analysis process to the supplied NaijaGlow retail case study.
+
+Use the fictional Nigerian personal-care retailer dataset supplied in the Week 15 capstone folder. You do not need to find another dataset for the required assignment. The supplied data is synthetic and is designed for consistent practice across Excel, MySQL, Python and Power BI.
 
 Required stages:
-1. Define a real, specific problem and its audience.
-2. Write the main question and supporting questions.
-3. Find and cite an appropriate dataset.
-4. Inspect the data and create a data dictionary.
-5. Clean and document the data.
-6. Analyse it using suitable tools from the programme.
-7. Validate important figures.
-8. Identify findings supported by evidence.
-9. Make practical recommendations.
-10. Document limitations and next steps.
+1. Understand the business brief and identify the decision audience.
+2. Read the data dictionary and understand the grain and table relationships.
+3. Inspect the three tables and validate row counts, keys and data types.
+4. Analyse the data in Excel, SQL, Python and Power BI as described in the project brief.
+5. Use consistent definitions for gross sales, discount, net revenue, product cost and gross profit.
+6. Validate that important figures agree across tools.
+7. Identify findings supported by evidence.
+8. Make practical recommendations and state limitations.
+9. Document the work so another learner can follow it.
 
-**Deliverable:** a complete project folder with the problem brief, source information, cleaned data or reproducible cleaning steps, analysis files, visual output and written report.
+**Deliverable:** the complete Week 15 capstone submission: Excel workbook, SQL script, Python notebook or script, Power BI report, README, outputs and 500–700 word management report.
 
-Choose a problem that can be answered with the data available. Do not make claims the dataset cannot support.
+The capstone is ambitious for a beginner. Treat 8–12 hours as a planning guide, not a strict deadline; it is reasonable to spread the work across two weeks. Do not rush validation or skip a tool just to finish quickly.
 
 ### Week 16: Portfolio, GitHub and presentation
 
