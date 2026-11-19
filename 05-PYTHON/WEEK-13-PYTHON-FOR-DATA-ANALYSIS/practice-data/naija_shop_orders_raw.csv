@@ -1,0 +1,22 @@
+Order_ID,Order_Date,Product,Category,Quantity,Unit_Price_NGN,City,Channel,Payment_Method
+N001,2026-10-01,Face Cream,Skincare,2,6500,Lagos,Online,Transfer
+N002,2026-10-01,Body Lotion,Skincare,3,4500,Ibadan,Store,Card
+N003,2026-10-02,Hand Wash,Personal Care,4,1500,Abuja,Online,Cash
+N004,2026-10-02,Face Serum,Skincare,1,12000,LAGOS,Online,Transfer
+N005,2026-10-03,Bar Soap,Personal Care,5,800,Osogbo,Store,Card
+N006,2026-10-03,Hair Oil,Personal Care,2,3500, Ibadan ,Online,Transfer
+N007,2026-10-04,Face Cream,Skincare,2,6500,,Store,Cash
+N008,2026-10-04,Body Lotion,Skincare,4,4500,Lagos,Online,Card
+N009,2026-10-05,Hand Wash,Personal Care,3,1500,Osogbo,Store,Transfer
+N010,2026-10-05,Face Serum,Skincare,1,12000,Ibadan,Online,Cash
+N011,2026-10-06,Bar Soap,Personal Care,3,800,Lagos,Store,Transfer
+N012,2026-10-06,Hair Oil,Personal Care,2,3500,Abuja,Online,Card
+N013,2026-10-07,Face Cream,Skincare,1,6500,Ibadan,Store,Transfer
+N014,2026-10-07,Body Lotion,Skincare,2,4500,Abuja,Online,Cash
+N015,2026-10-08,Hand Wash,Personal Care,6,1500,Lagos,Store,Card
+N016,2026-10-08,Face Serum,Skincare,2,12000,,Online,Transfer
+N017,2026-10-09,Bar Soap,Personal Care,4,800,Osogbo,Store,Cash
+N018,2026-10-09,Hair Oil,Personal Care,3,3500,Lagos,Online,Transfer
+N019,2026-10-10,Face Cream,Skincare,2,6500,IBADAN,Store,Card
+N020,2026-10-10,Body Lotion,Skincare,3,4500,Lagos,Online,Transfer
+N020,2026-10-10,Body Lotion,Skincare,3,4500,Lagos,Online,Transfer
