@@ -1,0 +1,25 @@
+Order_Date,City,Category,Sales_Channel,Product,Quantity,Unit_Price_NGN,Unit_Cost_NGN
+2026-01-05,Lagos,Skincare,Online,Face Serum,2,12000,7000
+2026-01-09,Ibadan,Personal Care,Store,Body Lotion,3,8000,4800
+2026-01-14,Abuja,Skincare,Online,Face Cream,1,15000,9000
+2026-01-20,Lagos,Personal Care,Online,Hair Oil,4,5000,2800
+2026-02-03,Ibadan,Skincare,Store,Face Serum,1,12000,7000
+2026-02-08,Lagos,Skincare,Online,Face Cream,2,15000,9000
+2026-02-12,Abuja,Personal Care,Store,Body Lotion,2,8000,4800
+2026-02-25,Osogbo,Personal Care,Online,Hand Wash,5,3000,1600
+2026-03-02,Lagos,Skincare,Store,Face Serum,3,12000,7000
+2026-03-11,Ibadan,Personal Care,Online,Hair Oil,2,5000,2800
+2026-03-17,Abuja,Skincare,Online,Face Cream,2,15000,9000
+2026-03-26,Lagos,Personal Care,Store,Body Lotion,1,8000,4800
+2026-04-04,Ibadan,Skincare,Online,Face Serum,2,12000,7000
+2026-04-10,Lagos,Skincare,Online,Face Cream,1,15000,9000
+2026-04-16,Osogbo,Personal Care,Store,Hand Wash,4,3000,1600
+2026-04-28,Abuja,Personal Care,Online,Hair Oil,3,5000,2800
+2026-05-03,Lagos,Skincare,Store,Face Serum,2,12000,7000
+2026-05-09,Ibadan,Personal Care,Online,Body Lotion,4,8000,4800
+2026-05-15,Abuja,Skincare,Store,Face Cream,1,15000,9000
+2026-05-23,Lagos,Personal Care,Online,Hair Oil,3,5000,2800
+2026-06-02,Ibadan,Skincare,Online,Face Serum,4,12000,7000
+2026-06-08,Lagos,Skincare,Store,Face Cream,2,15000,9000
+2026-06-18,Osogbo,Personal Care,Online,Hand Wash,6,3000,1600
+2026-06-25,Abuja,Personal Care,Store,Body Lotion,2,8000,4800
