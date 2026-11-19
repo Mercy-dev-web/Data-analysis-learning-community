@@ -1,0 +1,31 @@
+Registration_ID,Student_Name,Department,Registration_Date,Venue,Attendance_Fee_NGN,Payment_Status
+REG001,Ada Okafor,Computer Science,2026-11-01,Ibadan,2500,Paid
+REG002,Tunde Adebayo,Economics,2026-11-01,Ibadan,2500,Pending
+REG003,Chioma Eze,Accounting,2026-11-02,Ibadan,2500,Paid
+REG004,David Bello,Computer Science,2026-11-02,Ibadan,2500,Paid
+REG005,Halima Yusuf,Mass Communication,2026-11-03,Ibadan,2500,Pending
+REG006,Samuel James,Economics,2026-11-03,Ibadan,2500,Paid
+REG007,Grace Okon,Computer Science,2026-11-04,Ibadan,2500,Paid
+REG008,Michael Ojo,Law,2026-11-04,Ibadan,2500,Pending
+REG009,Precious Nwosu,Accounting,2026-11-05,Ibadan,2500,Paid
+REG010,Daniel Musa,Computer Science,2026-11-05,Ibadan,2500,Paid
+REG011,Esther Balogun,Economics,2026-11-06,Ibadan,2500,Pending
+REG012,Peter Obi,Mass Communication,2026-11-06,Ibadan,2500,Paid
+REG013,Faith Johnson,Computer Science,2026-11-07,Ibadan,2500,Paid
+REG014,Joseph Ade,Law,2026-11-07,Ibadan,2500,Pending
+REG015,Maryam Sani,Accounting,2026-11-08,Ibadan,2500,Paid
+REG016,Emeka Umeh,Computer Science,2026-11-08,Ibadan,2500,Paid
+REG017,Deborah Akin,Economics,2026-11-09,Ibadan,2500,Pending
+REG018,Victor Ojo,Mass Communication,2026-11-09,Ibadan,2500,Paid
+REG019,Joy Ekanem,Computer Science,2026-11-10,Ibadan,2500,Paid
+REG020,Abdul Bello,Law,2026-11-10,Ibadan,2500,Pending
+REG021,Oluchi Nnamdi,Accounting,2026-11-11,Ibadan,2500,Paid
+REG022,Abiola Fashola,Computer Science,2026-11-11,Ibadan,2500,Paid
+REG023,Samuel Eze,Economics,2026-11-12,Ibadan,2500,Pending
+REG024,Anita George,Mass Communication,2026-11-12,Ibadan,2500,Paid
+REG025,Tope Ajayi,Computer Science,2026-11-13,Ibadan,2500,Paid
+REG026,Ismaila Garba,Law,2026-11-13,Ibadan,2500,Pending
+REG027,Chidera Okeke,Accounting,2026-11-14,Ibadan,2500,Paid
+REG028,Rebecca James,Computer Science,2026-11-14,Ibadan,2500,Paid
+REG029,Kelvin Udo,Economics,2026-11-15,Ibadan,2500,Pending
+REG030,Ngozi Ibe,Mass Communication,2026-11-15,Ibadan,2500,Paid
