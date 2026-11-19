@@ -1,0 +1,66 @@
+Order_ID,Order_Date,Branch,Product,Category,Quantity,Unit_Price_NGN,Payment_Method,Sales_Channel,Customer_Type
+RT001,2026-10-01,Ikeja,Golden Morn 500g,Beverages,2,3200,Transfer,In-store,Returning
+RT002,2026-10-01, Ibadan ,Rice 5kg,Groceries,1,12500,Cash,In-store,New
+RT003,2026-10-02,ikeja,Peak Milk sachet,Beverages,5,350,Card,Online,Returning
+RT004,2026-10-02,Lekki,Detergent 1kg,Household,2,2800,Transfer,In-store,New
+RT005,2026-10-03,Ibadan,Indomie Chicken,Groceries,6,450,Cash,Online,Returning
+RT006,2026-10-03,LEKKI,Golden Morn 500g, beverages ,1,3200,Card,In-store,New
+RT007,2026-10-04,Ikeja,Vegetable Oil 1L,Groceries,2,2400,Transfer,Online,Returning
+RT008,2026-10-04,Ibadan,Toothpaste,Personal Care,3,1500,,In-store,New
+RT009,2026-10-05,Lekki,Peak Milk sachet,Beverages,4,350,Cash,Online,Returning
+RT010,2026-10-05,Ikeja,Rice 5kg,Groceries,2,12500,Card,In-store,Returning
+RT011,2026-10-06,Ibadan,Detergent 1kg,Household,1,2800,Transfer,Online,New
+RT012,2026-10-06,Lekki,Indomie Chicken,Groceries,10,450,Cash,In-store,Returning
+RT013,2026-10-07, Ikeja,Toothpaste,Personal Care,2,1500,Card,Online,New
+RT014,2026-10-07,Ibadan,Golden Morn 500g,Beverages,3,3200,Transfer,In-store,Returning
+RT015,2026-10-08,Lekki,Vegetable Oil 1L,Groceries,2,2400,Cash,Online,New
+RT016,2026-10-08,Ikeja,Detergent 1kg,Household,3,2800,Transfer,In-store,Returning
+RT017,2026-10-09,Ibadan,Peak Milk sachet,Beverages,8,350,Card,Online,Returning
+RT018,2026-10-09,Lekki,Rice 5kg,Groceries,1,12500,Transfer,In-store,New
+RT019,2026-10-10,Ikeja,Indomie Chicken,Groceries,12,450,Cash,Online,Returning
+RT020,2026-10-10,Ibadan,Toothpaste,Personal Care,1,1500,Transfer,In-store,New
+RT021,2026-10-11,Lekki,Golden Morn 500g,Beverages,2,3200,Card,Online,Returning
+RT022,2026-10-11,Ikeja,Vegetable Oil 1L,Groceries,3,2400,Transfer,Online,New
+RT023,2026-10-12,Ibadan,Detergent 1kg,Household,2,2800,Cash,Online,Returning
+RT024,2026-10-12,Lekki,Peak Milk sachet,Beverages,6,350,Transfer,In-store,New
+RT025,2026-10-13,Ikeja,Rice 5kg,Groceries,1,12500,Card,Online,Returning
+RT026,2026-10-13,Ibadan,Indomie Chicken,Groceries,8,450,Transfer,In-store,New
+RT027,2026-10-14,Lekki,Toothpaste,Personal Care,2,1500,Cash,In-store,Returning
+RT028,2026-10-14,Ikeja,Golden Morn 500g,Beverages,1,3200,Transfer,Online,New
+RT029,2026-10-15,Ibadan,Vegetable Oil 1L,Groceries,2,2400,Card,In-store,Returning
+RT030,2026-10-15,Lekki,Detergent 1kg,Household,1,2800,Transfer,Online,New
+RT031,2026-10-16,Ikeja,Peak Milk sachet,Beverages,4,350,Cash,In-store,Returning
+RT032,2026-10-16,Ibadan,Rice 5kg,Groceries,1,12500,Transfer,Online,New
+RT033,2026-10-17,Lekki,Indomie Chicken,Groceries,9,450,Card,In-store,Returning
+RT034,2026-10-17,Ikeja,Toothpaste,Personal Care,3,1500,Transfer,Online,New
+RT035,2026-10-18,Ibadan,Golden Morn 500g,Beverages,2,3200,Cash,In-store,Returning
+RT036,2026-10-18,Lekki,Vegetable Oil 1L,Groceries,1,2400,Transfer,Online,New
+RT037,2026-10-19,Ikeja,Detergent 1kg,Household,2,2800,Card,In-store,Returning
+RT038,2026-10-19,Ibadan,Peak Milk sachet,Beverages,5,350,Transfer,Online,New
+RT039,2026-10-20,Lekki,Rice 5kg,Groceries,2,12500,Cash,In-store,Returning
+RT040,2026-10-20,Ikeja,Indomie Chicken,Groceries,7,450,Transfer,Online,New
+RT041,2026-10-21,Ibadan,Toothpaste,Personal Care,2,1500,Card,In-store,Returning
+RT042,2026-10-21,Lekki,Golden Morn 500g,Beverages,1,3200,Transfer,Online,New
+RT043,2026-10-22,Ikeja,Vegetable Oil 1L,Groceries,2,2400,Cash,In-store,Returning
+RT044,2026-10-22,Ibadan,Detergent 1kg,Household,3,2800,Transfer,Online,New
+RT045,2026-10-23,Lekki,Peak Milk sachet,Beverages,7,350,Card,In-store,Returning
+RT046,2026-10-23,Ikeja,Rice 5kg,Groceries,1,12500,Transfer,Online,New
+RT047,2026-10-24,Ibadan,Indomie Chicken,Groceries,5,450,Cash,In-store,Returning
+RT048,2026-10-24,Lekki,Toothpaste,Personal Care,1,1500,Transfer,Online,New
+RT049,2026-10-25,Ikeja,Golden Morn 500g,Beverages,2,3200,Card,In-store,Returning
+RT050,2026-10-25,Ibadan,Vegetable Oil 1L,Groceries,3,2400,Transfer,Online,New
+RT051,2026-10-26,Lekki,Detergent 1kg,Household,2,2800,Cash,In-store,Returning
+RT052,2026-10-26,Ikeja,Peak Milk sachet,Beverages,6,350,Transfer,Online,New
+RT053,2026-10-27,Ibadan,Rice 5kg,Groceries,1,12500,Card,In-store,Returning
+RT054,2026-10-27,Lekki,Indomie Chicken,Groceries,11,450,Transfer,Online,New
+RT055,2026-10-28,Ikeja,Toothpaste,Personal Care,2,1500,Cash,In-store,Returning
+RT056,2026-10-28,Ibadan,Golden Morn 500g,Beverages,1,3200,Transfer,Online,New
+RT057,2026-10-29,Lekki,Vegetable Oil 1L,Groceries,2,2400,Card,In-store,Returning
+RT058,2026-10-29,Ikeja,Detergent 1kg,Household,1,2800,Transfer,Online,New
+RT059,2026-10-30,Ibadan,Peak Milk sachet,Beverages,4,350,Cash,In-store,Returning
+RT060,2026-10-30,Lekki,Rice 5kg,Groceries,1,12500,Transfer,Online,New
+RT061,2026-10-31,Ikeja,Indomie Chicken,Groceries,8,450,Card,In-store,Returning
+RT062,2026-10-31,Ibadan,Toothpaste,Personal Care,3,1500,Transfer,Online,New
+RT063,2026-10-31,Lekki,Golden Morn 500g,Beverages,2,3200,Cash,In-store,Returning
+RT064,2026-10-31,Ibadan,Detergent 1kg,Household,2,2800,Transfer,Online,New
+RT064,2026-10-31,Ibadan,Detergent 1kg,Household,2,2800,Transfer,Online,New
