@@ -1,25 +1,24 @@
 # Week 13: Videos and Reading Resources
 
-Watch with your code editor or notebook open. Pause, type the examples yourself, change values and explain the output. The videos are learning support; the written lesson and assignment define what you are expected to know.
+Watch with your code editor or notebook open. Pause, type the examples yourself, change values and explain the output. The written lesson and assignment define what you are expected to know.
 
 ## Main learning path — Alex The Analyst
 
-Alex The Analyst has a beginner-friendly pandas tutorial series. The following videos cover the topics in this week's module.
+These are direct videos from Alex The Analyst's pandas tutorial series.
 
-1. **[Reading Files in Pandas](https://www.youtube.com/watch?v=9m4n2xVzk9o)** — importing CSV and Excel files and inspecting a DataFrame. If this link does not open in your region, use the official pandas reading guide below.
-2. **[Filtering Columns and Rows in Pandas](https://www.youtube.com/watch?v=8V0GzJz2j3A)** — practise selecting and filtering data.
-3. **[Data Cleaning in Pandas](https://www.youtube.com/watch?v=bDhvCp3_lYw)** — cleaning inconsistent values, duplicates and missing data.
-4. **[Exploratory Data Analysis in Pandas](https://www.youtube.com/watch?v=Liv6eeb1VfE)** — inspecting data, summary statistics, missing values, grouping and outliers.
-5. **[Group By and Aggregate Functions in Pandas](https://www.youtube.com/watch?v=2AFGPdNn4FM)** — practise grouping and summarising records.
+1. **[Reading in Files in Pandas](https://www.youtube.com/watch?v=dUpyC40cF6Q)** — importing CSV, text, JSON and Excel files. Useful chapters: 0:58 (CSV), 9:32 (Excel), 13:35 (inspecting a DataFrame).
+2. **[Group By and Aggregate Functions in Pandas](https://www.youtube.com/watch?v=VRmXto2YA2I)** — grouping records and calculating summaries. Useful chapters: 1:20 (first groupby), 3:08 (aggregate functions), 5:38 (.agg), 7:32 (multiple columns).
+3. **[Data Cleaning in Pandas](https://www.youtube.com/watch?v=bDhvCp3_lYw)** — duplicates, removing columns, stripping spaces, standardising values, missing values and filtering. Useful chapters: 2:34 (duplicates), 5:10 (strip), 24:58 (standardising values), 28:40 (missing values).
+4. **[Exploratory Data Analysis in Pandas](https://www.youtube.com/watch?v=Liv6eeb1VfE)** — inspecting data, summary statistics, missing values, grouping and outliers. This video also prepares you for Week 14.
 
-**Note:** Video titles and URLs can change. If a specific link is unavailable, search the exact title on Alex The Analyst's official YouTube channel. Focus on the concepts listed in the lesson; do not get stuck trying to reproduce a different creator's dataset.
+If you want one longer lesson, Alex's [Data Analyst Bootcamp for Beginners](https://www.youtube.com/watch?v=PSNXoAs2FtQ) includes a pandas section beginning at 14:00:33. Use the individual videos above when you want to focus on one topic.
 
 ## Official pandas documentation
 
 - [pandas: Getting started](https://pandas.pydata.org/docs/getting_started/index.html) — introduction and installation.
-- [Intro to pandas tutorials](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) — reading data, selecting subsets, plots, new columns, statistics and combining tables.
+- [Intro to pandas tutorials](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) — reading data, selecting subsets, new columns, statistics and combining tables.
 - [pandas: Working with missing data](https://pandas.pydata.org/docs/user_guide/missing_data.html) — how pandas represents and handles missing values.
-- [pandas: Duplicate labels and duplicate data](https://pandas.pydata.org/docs/user_guide/duplicates.html) — learn how to identify duplicate data and labels.
+- [pandas: Duplicate labels and duplicate data](https://pandas.pydata.org/docs/user_guide/duplicates.html) — duplicate data and labels.
 - [pandas: Group by](https://pandas.pydata.org/docs/user_guide/groupby.html) — grouping and aggregation.
 
 ## Official NumPy documentation
@@ -30,11 +29,12 @@ Alex The Analyst has a beginner-friendly pandas tutorial series. The following v
 ## Suggested viewing order
 
 1. Read the pandas introduction in the lesson.
-2. Watch a video on reading files and inspecting DataFrames.
+2. Watch Reading in Files in Pandas and practise loading the supplied CSV.
 3. Practise selecting and filtering rows.
-4. Watch the data-cleaning video and reproduce the missing-value and duplicate checks.
-5. Practise groupby and aggregation.
+4. Watch Data Cleaning in Pandas and reproduce the missing-value and duplicate checks.
+5. Watch Group By and Aggregate Functions and practise creating summary tables.
 6. Read the NumPy beginner guide and complete the short array exercises.
+7. Watch the EDA video as a preview of Week 14.
 
 ## Study reminder
 
