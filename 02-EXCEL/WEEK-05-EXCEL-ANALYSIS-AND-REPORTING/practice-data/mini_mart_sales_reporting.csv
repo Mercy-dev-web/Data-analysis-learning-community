@@ -1,0 +1,49 @@
+Transaction_ID,Sale_Date,Venue,Category,Product,Salesperson,Quantity_Sold,Unit_Price_NGN,Payment_Method,Payment_Status
+MM001,2026-11-02,Ibadan,Snacks,Potato Chips,Ada,8,700,Transfer,Paid
+MM002,2026-11-02,Oyo,Drinks,Bottled Water,Tunde,15,300,Cash,Paid
+MM003,2026-11-02,Ibadan,Bakery,Bread,Ada,6,1500,POS,Paid
+MM004,2026-11-03,Oyo,Snacks,Groundnut,Bola,10,500,Transfer,Paid
+MM005,2026-11-03,Ibadan,Drinks,Orange Juice,Tunde,5,1200,POS,Pending
+MM006,2026-11-03,Ogbomoso,Bakery,Meat Pie,Bola,7,1000,Cash,Paid
+MM007,2026-11-04,Ibadan,Drinks,Malt Drink,Ada,9,1000,Transfer,Paid
+MM008,2026-11-04,Oyo,Bakery,Agege Bread,Tunde,8,1300,Transfer,Paid
+MM009,2026-11-04,Ogbomoso,Snacks,Plantain Chips,Bola,12,800,POS,Paid
+MM010,2026-11-05,Ibadan,Bakery,Chicken Pie,Tunde,4,1500,Cash,Paid
+MM011,2026-11-05,Oyo,Drinks,Orange Juice,Ada,7,1200,Transfer,Paid
+MM012,2026-11-05,Ibadan,Snacks,Chin Chin,Bola,14,500,POS,Pending
+MM013,2026-11-06,Ogbomoso,Drinks,Bottled Water,Tunde,20,300,Cash,Paid
+MM014,2026-11-06,Ibadan,Bakery,Bread,Ada,10,1500,Transfer,Paid
+MM015,2026-11-06,Oyo,Snacks,Potato Chips,Bola,6,700,POS,Paid
+MM016,2026-11-07,Ibadan,Drinks,Malt Drink,Tunde,11,1000,Transfer,Paid
+MM017,2026-11-07,Ogbomoso,Bakery,Meat Pie,Ada,9,1000,Cash,Pending
+MM018,2026-11-07,Oyo,Snacks,Groundnut,Bola,15,500,Transfer,Paid
+MM019,2026-11-08,Ibadan,Snacks,Plantain Chips,Ada,13,800,POS,Paid
+MM020,2026-11-08,Oyo,Drinks,Bottled Water,Tunde,18,300,Cash,Paid
+MM021,2026-11-08,Ogbomoso,Bakery,Agege Bread,Bola,5,1300,Transfer,Paid
+MM022,2026-11-09,Ibadan,Drinks,Orange Juice,Ada,8,1200,Transfer,Paid
+MM023,2026-11-09,Oyo,Bakery,Chicken Pie,Tunde,6,1500,POS,Paid
+MM024,2026-11-09,Ibadan,Snacks,Chin Chin,Bola,20,500,Cash,Paid
+MM025,2026-11-10,Ogbomoso,Drinks,Malt Drink,Ada,10,1000,Transfer,Pending
+MM026,2026-11-10,Ibadan,Bakery,Meat Pie,Tunde,12,1000,POS,Paid
+MM027,2026-11-10,Oyo,Snacks,Potato Chips,Bola,9,700,Cash,Paid
+MM028,2026-11-11,Ibadan,Drinks,Bottled Water,Ada,25,300,Transfer,Paid
+MM029,2026-11-11,Ogbomoso,Snacks,Groundnut,Tunde,11,500,POS,Paid
+MM030,2026-11-11,Oyo,Bakery,Bread,Bola,7,1500,Transfer,Pending
+MM031,2026-11-12,Ibadan,Snacks,Plantain Chips,Ada,16,800,Cash,Paid
+MM032,2026-11-12,Oyo,Drinks,Orange Juice,Tunde,6,1200,POS,Paid
+MM033,2026-11-12,Ogbomoso,Bakery,Chicken Pie,Bola,8,1500,Transfer,Paid
+MM034,2026-11-13,Ibadan,Drinks,Malt Drink,Ada,13,1000,Cash,Paid
+MM035,2026-11-13,Oyo,Snacks,Chin Chin,Tunde,18,500,Transfer,Paid
+MM036,2026-11-13,Ibadan,Bakery,Agege Bread,Bola,9,1300,POS,Pending
+MM037,2026-11-14,Ogbomoso,Drinks,Bottled Water,Ada,22,300,Cash,Paid
+MM038,2026-11-14,Ibadan,Snacks,Potato Chips,Tunde,12,700,Transfer,Paid
+MM039,2026-11-14,Oyo,Bakery,Meat Pie,Bola,10,1000,POS,Paid
+MM040,2026-11-15,Ibadan,Drinks,Orange Juice,Ada,9,1200,Transfer,Paid
+MM041,2026-11-15,Ogbomoso,Snacks,Plantain Chips,Tunde,14,800,Cash,Pending
+MM042,2026-11-15,Oyo,Drinks,Malt Drink,Bola,12,1000,POS,Paid
+MM043,2026-11-16,Ibadan,Bakery,Bread,Ada,11,1500,Transfer,Paid
+MM044,2026-11-16,Ogbomoso,Drinks,Bottled Water,Tunde,30,300,Cash,Paid
+MM045,2026-11-16,Oyo,Snacks,Groundnut,Bola,17,500,Transfer,Paid
+MM046,2026-11-17,Ibadan,Snacks,Chin Chin,Ada,21,500,POS,Paid
+MM047,2026-11-17,Ogbomoso,Bakery,Chicken Pie,Tunde,6,1500,Transfer,Paid
+MM048,2026-11-17,Oyo,Drinks,Orange Juice,Bola,8,1200,Cash,Pending
