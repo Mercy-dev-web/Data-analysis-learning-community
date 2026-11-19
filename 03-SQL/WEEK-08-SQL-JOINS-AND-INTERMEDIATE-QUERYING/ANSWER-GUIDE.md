@@ -185,12 +185,12 @@ COALESCE(expression, 0) returns zero when the expression is NULL. This makes mis
 
 ## Expected sample-data checks
 
-The Week 6 sample contains 15 order records and 25 total units. The order-line value across all order records is ₦76,000.
+The Week 6 sample contains 15 order records and 25 total units. The order-line value across all order records is ₦117,500.
 
 Grouped order-line value by category:
-- Groceries: ₦60,100.
-- Personal Care: ₦10,200.
-- Household: ₦5,600.
+- Groceries: ₦88,000.
+- Personal Care: ₦15,500.
+- Household: ₦14,000.
 
 Total units by product:
 - Rice 5kg: 4.
