@@ -96,7 +96,7 @@ Learn:
 Practise:
 - Convert a messy range into a structured table.
 - Sort and filter a transaction dataset.
-- Use cell references to calculate revenue, cost and profit.
+- Understand how cell references identify values and how references move when copied. Full formula calculations are taught in Week 4.
 
 **Deliverable:** a structured transaction workbook with a clearly labelled data table and basic calculated columns.
 
@@ -151,14 +151,15 @@ Learn:
 - Primary keys and foreign keys.
 - Relationships and basic normalisation concepts.
 - SQL syntax and statement structure.
-- SELECT, FROM, DISTINCT, WHERE, ORDER BY and LIMIT.
-- Comparison, logical and pattern-matching operators.
-- NULL and the difference between NULL and zero or an empty string.
+- CREATE DATABASE, CREATE TABLE, INSERT INTO, USE and SELECT.
+- Selecting all or specific columns, DISTINCT and basic aliases.
+- Inspecting tables with SHOW TABLES and DESCRIBE.
 
 Practise:
-- Query one table.
-- Filter records using multiple conditions.
-- Sort results and return only the columns needed.
+- Create and select a database.
+- Inspect the supplied tables and their keys.
+- Retrieve all columns or selected columns from one table.
+- Explain what each query returns. Filtering, sorting and aggregation are developed in Week 7.
 
 **Deliverable:** a set of at least 15 clearly formatted queries with a plain-language note describing what each query returns.
 
@@ -167,13 +168,13 @@ Practise:
 **Focus:** Summarise records to answer business questions.
 
 Learn:
+- WHERE and comparison operators.
+- AND, OR and NOT.
+- IN, BETWEEN, LIKE and IS NULL.
+- ORDER BY and LIMIT.
 - COUNT, SUM, AVG, MIN and MAX.
 - GROUP BY and HAVING.
-- CASE WHEN.
-- Aliases.
-- Date and string functions appropriate to your SQL environment.
-- Subqueries and common table expressions (CTEs), introduced gradually.
-- Query readability and validation.
+- Aliases, query readability and validation.
 
 **Deliverable:** answer at least ten business questions using grouped and calculated results. Include the question, SQL query, result interpretation and any assumptions.
 
