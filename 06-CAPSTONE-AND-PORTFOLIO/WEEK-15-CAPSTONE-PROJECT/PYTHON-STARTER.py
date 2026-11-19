@@ -38,7 +38,7 @@ df["DiscountAmountNGN"] = df["GrossSalesNGN"] * df["DiscountPct"]
 df["NetRevenueNGN"] = df["GrossSalesNGN"] - df["DiscountAmountNGN"]
 df["ProductCostNGN"] = df["Quantity"] * df["UnitCostNGN"]
 df["GrossProfitNGN"] = df["NetRevenueNGN"] - df["ProductCostNGN"]
-df["GrossMarginPct"] = df["GrossProfitNGN"] / df["NetRevenueNGN"]
+df["GrossMarginPct"] = df["GrossProfitNGN"].div(\n    df["NetRevenueNGN"].where(df["NetRevenueNGN"] != 0)\n)
 df["SalesMonth"] = df["OrderDate"].dt.to_period("M").astype(str)
 
 print("\nOverall totals")
