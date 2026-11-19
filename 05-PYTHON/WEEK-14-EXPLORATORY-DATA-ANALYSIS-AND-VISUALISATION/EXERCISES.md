@@ -35,6 +35,6 @@ Use `practice-data/naija_retail_eda.csv`. Complete the work in a Jupyter noteboo
 22. Should every point flagged by a boxplot be removed? Why?
 
 ## Submission
-Submit your notebook, exported monthly summary CSV, at least four charts (city bar, monthly line, revenue histogram, revenue boxplot), and a 250–350 word interpretation.
+Submit your notebook, exported monthly summary CSV, at least five charts (city bar, monthly line, category bar, revenue histogram and revenue boxplot; include the scatter plot as an additional visual if possible), and a 250–350 word interpretation.
 
 **Suggested time:** 2–3 hours for exercises, in addition to the lessons and assignment.
