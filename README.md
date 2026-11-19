@@ -47,7 +47,7 @@ No previous programming experience is required. You should have access to a comp
 - `06-CAPSTONE-AND-PORTFOLIO/` — project briefs, submission templates and portfolio guidance.
 - `07-CAREER-RESOURCES/` — CV, GitHub, interview and career preparation resources.
 
-Folders will be populated in sequence. Each lesson should include explanations, worked examples, practice, an assignment and a way to check understanding.
+Each weekly module contains lesson notes, worked examples, practice, an assignment and a way to check understanding. Start with Week 1 and follow the sequence.
 
 ## How learning works
 
